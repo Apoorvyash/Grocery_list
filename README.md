@@ -7,8 +7,8 @@ You can do following actions in the list<br>
 <li>Insert a new item.</li>
 <li>Delete a not needed Item.</li>
 <li>Checkmark an item which you have just taken.</li>
-
-This website made using -<br>
+</ul>
+This website is made using -<br>
 1.html<br>
 2.css<br>
 3.javascript
