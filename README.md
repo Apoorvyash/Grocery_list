@@ -8,7 +8,7 @@ You can do following actions in the list<br>
 <li>Delete a not needed Item.</li>
 <li>Checkmark an item which you have just taken.</li>
 
-It is a basic website made using -<br>
+This website made using -<br>
 1.html<br>
 2.css<br>
 3.javascript
